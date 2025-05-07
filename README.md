@@ -7,7 +7,7 @@ View Live Scores & Stats
 Fetch up-to-the-minute match data from Football-Data.org and display team lineups, goals, and key events.
 
 Join Arsenal Fan Groups
-Create or join dedicated communities—like the “Arsenal Armada”—to share news, memes, and matchday banter.
+Create or join dedicated communities—like the “Gooner Guild”—to share news, memes, and matchday banter.
 
 Make Match Predictions
 Submit your score forecasts, earn points, and climb our leaderboard with fellow Gooners.
